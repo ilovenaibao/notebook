@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.o
+*.out
+core.*
+Session.vim
