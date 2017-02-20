@@ -4,3 +4,6 @@
 *.out
 core.*
 Session.vim
+t/
+c/
+*-.md
