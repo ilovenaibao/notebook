@@ -6,4 +6,5 @@ core.*
 Session.vim
 t/
 c/
+m/
 *-.md
